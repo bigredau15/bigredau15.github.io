@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'follow us on <a href="https://instagram.com/">gramtown</a>'
+footer: 'follow us on <a href="https://www.instagram.com/bigredau/">gramtown</a>'
 
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
